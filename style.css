@@ -27,7 +27,7 @@
 }
 
 body{
-    background: url(back.jpeg) no-repeat center center fixed;
+    background: url(back.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -71,8 +71,8 @@ body{
 }
 
 .link-bio a {
-    background: url(back3.gif) no-repeat;
-    color: rgb(0, 0, 0);
+    background: url(back-red.jpg) no-repeat;
+    color: rgb(255, 255, 255);
     padding: 30px;
     width: 300px;
     text-decoration: none;
@@ -89,7 +89,7 @@ body{
 }
 
 h2 {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: California;
 }
 
@@ -106,7 +106,7 @@ h2 {
 .titulo3 {
     text-align: center;
     font-family: Arame;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .titulo4 {
